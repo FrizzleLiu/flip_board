@@ -4,6 +4,9 @@ Flutter仿flipboard
 基于Canvas和Matrix实现
 
 
+![image](https://github.com/FrizzleLiu/flip_board/gif/FlipBoard效果图.gif)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
